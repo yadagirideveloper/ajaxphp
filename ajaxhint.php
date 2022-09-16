@@ -1,5 +1,6 @@
 <html>  
-<head>  
+<head> 
+  <!--- This is comment line --->
 <script>  
 function showHint(str) {  
   if (str.length == 0) {  
