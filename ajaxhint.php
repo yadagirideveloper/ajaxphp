@@ -1,5 +1,6 @@
 <html>  
 <head> 
+   <!--- This is comment line --->
   <!--- This is comment line --->
 <script>  
 function showHint(str) {  
